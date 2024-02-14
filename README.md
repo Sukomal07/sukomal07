@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="50%">
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="50%" style="border-radius: 5px">
 </p>
 
 <h1 align="center">
@@ -14,14 +14,16 @@
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/duttasukomal/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/duttasukomal/" target="_blank" style="text-decoration: none;">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-right: 10px;" width="40px">
 </a>
-<a href="https://twitter.com/CryptoOrbiT6" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
+<a href="https://twitter.com/CryptoOrbiT6" target="_blank" style="text-decoration: none;">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="margin-right: 10px;" width="40px">
 </a>
-
-<br><br>
+<a href="https://t.me/sukomal07" target="_blank" style="text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png
+  " alt="Telegram" width="40px">
+</a>
 
 ## 🛠️ Languages and Tools :
 
@@ -31,18 +33,13 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukomal07&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sukomal07's GitHub Stats">
-</p>
+<div style="display:flex; gap:10px; justify-content:center; margin-bottom:10px;">
 
-## 🔝 Most Used Languages
+  <img src="https://github-readme-stats.vercel.app/api?username=sukomal07&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sukomal07's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukomal07&theme=radical" alt="Sukomal07's Contribution Streak">
+  
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukomal07&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-## 🔥 Contribution Streak & Total Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukomal07&theme=radical" alt="Sukomal07's Contribution Streak">
 </p>
