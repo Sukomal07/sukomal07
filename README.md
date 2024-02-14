@@ -29,10 +29,10 @@
 <div style="display:flex;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=sukomal07&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sukomal07's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukomal07&theme=radical" alt="Sukomal07's Contribution Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukomal07&layout=compact&theme=radical" alt="Top Languages">
   
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukomal07&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukomal07&theme=radical" alt="Sukomal07's Contribution Streak">
 </p>
