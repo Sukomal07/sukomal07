@@ -14,16 +14,9 @@
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/duttasukomal/" target="_blank" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-right: 10px;" width="40px">
-</a>
-<a href="https://twitter.com/CryptoOrbiT6" target="_blank" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="margin-right: 10px;" width="40px">
-</a>
-<a href="https://t.me/sukomal07" target="_blank" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png
-  " alt="Telegram" width="40px">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&color=0077B5)](https://www.linkedin.com/in/duttasukomal/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/CryptoOrbiT6)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&color=2CA5E0)](https://t.me/sukomal07)
 
 ## 🛠️ Languages and Tools :
 
@@ -33,7 +26,7 @@
 
 ## 📈 GitHub Stats
 
-<div style="display:flex; gap:10px; justify-content:center; margin-bottom:10px;">
+<div style="display:flex;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=sukomal07&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sukomal07's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukomal07&theme=radical" alt="Sukomal07's Contribution Streak">
