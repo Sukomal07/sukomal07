@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="50%" style="border-radius: 5px">
-</p>
-
 <h1 align="center">
     <strong> Hi 👋, I'm Sukomal Dutta </strong> 
 </h1>
