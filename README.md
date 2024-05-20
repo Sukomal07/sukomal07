@@ -20,3 +20,14 @@
 ## 🛠️ Languages and Tools :
 
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,nodejs,mongodb,postgres,tailwind,mui,firebase,aws,docker,postman,prisma,cloudflare,linux" alt="Languages and Tools">
+
+## 🌈 Interesting Contributions
+
+<div>
+
+[![wanderlust](https://readme-status-gamma.vercel.app/api/pin/?username=krishnaacharyaa&repo=wanderlust&theme=react&show_owner=true)](https://github.com/krishnaacharyaa/wanderlust/pull/241)
+[![lucide-icons](https://readme-status-gamma.vercel.app/api/pin/?username=lucide-icons&repo=lucide&theme=react&show_owner=true)](https://github.com/lucide-icons/lucide/pull/1600)
+[![frontend-mini-challenges](https://readme-status-gamma.vercel.app/api/pin/?username=sadanandpai&repo=frontend-mini-challenges&theme=react&show_owner=true)](https://github.com/sadanandpai/frontend-mini-challenges/pull/72)
+[![frontend-mini-challenges](https://readme-status-gamma.vercel.app/api/pin/?username=novuhq&repo=novu&theme=react&show_owner=true)](https://github.com/novuhq/novu/pull/4608)
+
+</div>
