@@ -4,9 +4,12 @@
 
 ## 🧑‍💻 About Me:
 
-- 🌱 Currently delving into full stack web development.
-- 🔭 Exploring and contributing to open source projects.
-- 🎨 Enthusiastic about community involvement.
+- A passionate full-stack developer skilled in creating dynamic, high-performance web applications. With expertise in JavaScript 🌐, and TypeScript 📜, I specialize in building responsive user interfaces using React.js ⚛️ and Next.js ⏭️.
+- Leveraging modern cloud technologies like Docker 🐳, I ensure seamless integration and deployment across various platforms. My design toolkit includes Material-UI 🎨, shadcn 🎨, Tailwind CSS 💨, and Bootstrap 📚, allowing me to craft visually stunning and user-friendly experiences.
+- On the backend, I manage robust databases with MongoDB 🍃, Firebase 🔥, Appwrite ✉️, PostgreSQL 🐘, and MySQL 🐬. My proficiency in Git 🧑‍💻 ensures efficient version control and collaboration, while my experience with GCP ☁️, Amazon AWS 🌩️, and Cloudflare Workers 🌐 enables scalable and reliable cloud deployments.
+- My journey in the tech world is also marked by a strong commitment to open-source contributions. I actively participate in various projects, collaborating with developers around the globe to create impactful solutions and drive innovation.
+- Driven by a commitment to continuous learning 📚 and community involvement 🌍, I thrive on solving complex problems and delivering innovative solutions.
+- Let's connect and bring your ideas to life with cutting-edge technology and creative design!
 
 ## 🤝 Connect with me:
 
@@ -23,11 +26,9 @@
 
 ## 🌈 Interesting Contributions
 
-<div>
-
-[![wanderlust](https://readme-status-gamma.vercel.app/api/pin/?username=krishnaacharyaa&repo=wanderlust&theme=react&show_owner=true)](https://github.com/krishnaacharyaa/wanderlust/pull/241)
-[![lucide-icons](https://readme-status-gamma.vercel.app/api/pin/?username=lucide-icons&repo=lucide&theme=react&show_owner=true)](https://github.com/lucide-icons/lucide/pull/1600)
-[![frontend-mini-challenges](https://readme-status-gamma.vercel.app/api/pin/?username=sadanandpai&repo=frontend-mini-challenges&theme=react&show_owner=true)](https://github.com/sadanandpai/frontend-mini-challenges/pull/72)
-[![frontend-mini-challenges](https://readme-status-gamma.vercel.app/api/pin/?username=novuhq&repo=novu&theme=react&show_owner=true)](https://github.com/novuhq/novu/pull/4608)
-
-</div>
+| Repository Name          | Status | Preview                                                                                                                                                                                      | Time     |
+| ------------------------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Wanderlust               | ✅     | [#241](https://github.com/krishnaacharyaa/wanderlust/pull/241) [#233](https://github.com/krishnaacharyaa/wanderlust/pull/233) [#222](https://github.com/krishnaacharyaa/wanderlust/pull/222) | May 2024 |
+| Lucide Icons             | ✅     | [#1600](https://github.com/lucide-icons/lucide/pull/1600) [#1656](https://github.com/lucide-icons/lucide/pull/1656) [#1612](https://github.com/lucide-icons/lucide/pull/1612)                | Oct 2023 |
+| Frontend Mini Challenges | ✅     | [#72](https://github.com/sadanandpai/frontend-mini-challenges/pull/72)                                                                                                                       | Sep 2023 |
+| Novu                     | ✅     | [#4608](https://github.com/novuhq/novu/pull/4608)                                                                                                                                            | Oct 2023 |
