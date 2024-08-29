@@ -1,3 +1,5 @@
+![Sukomal Dutta](https://github.com/user-attachments/assets/f8307151-6fa3-4575-b9eb-b55a91b8f745)
+
 <h1 align="center">
     <strong> Hi 👋, I'm Sukomal Dutta </strong> 
 </h1>
