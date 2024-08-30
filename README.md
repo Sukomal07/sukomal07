@@ -11,6 +11,21 @@
 - On the backend, I manage robust databases with MongoDB 🍃, Firebase 🔥, Appwrite ✉️, PostgreSQL 🐘, and MySQL 🐬. My proficiency in Git 🧑‍💻 ensures efficient version control and collaboration, while my experience with GCP ☁️, Amazon AWS 🌩️, and Cloudflare Workers 🌐 enables scalable and reliable cloud deployments.
 - Driven by a commitment to continuous learning 📚 and community involvement 🌍, I thrive on solving complex problems and delivering innovative solutions.
 
+## Skills
+
+> Here's what I excel at and am familiar with:
+
+- `Programming:` JavaScript, React.js, Next.js, TypeScript, Rust, Go, HTML, Test-Driven Development (TDD)
+- `Styling:` CSS, Bootstrap, TailwindCSS, MUI, Shandcn/ui
+- `State Management:` FormData, Context API, Redux Toolkit, React Query, Recoil
+- `Routing:` React Router
+- `Testing:` Jest, React Testing Library, Mocha
+- `Server:` Node.js, Express.js, Express Middlewares
+- `Authentication:` JWT, Passkeys, Auth As a Service (Firebase, Trusthauthx)
+- `API:` REST, GraphQL
+- `Database:` MongoDB, PostgreSQL, Cloud Firestore
+- `Deployment:` Netlify, Render, Vercel
+
 ## 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&color=0077B5)](https://www.linkedin.com/in/duttasukomal/)
