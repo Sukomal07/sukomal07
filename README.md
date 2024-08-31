@@ -39,6 +39,7 @@
 
   <img src="https://skillicons.dev/icons?i=javascript,typescript,rust,go,react,next,nodejs,mongodb,postgres,tailwind,mui,firebase,aws,docker,postman,prisma,cloudflare,linux" alt="Languages and Tools">
 
+<!--
 ## 🌈 Interesting Contributions
 
 | Repository                                                                                                                                                  | My Merged PR                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -46,3 +47,4 @@
 | ![wanderlust](https://readme-status-gamma.vercel.app/api/pin/?username=krishnaacharyaa&repo=wanderlust&theme=react&show_owner=true)                         | [#241: Fix signin page, signup page , added axios-instance and auth elements](https://github.com/krishnaacharyaa/wanderlust/pull/241) <br> [#233: Fix signup , signin , signout controller and auth-middleware](https://github.com/krishnaacharyaa/wanderlust/pull/233) <br> [#222: Feat error-middleware and api-error , api-response, async -handler](https://github.com/krishnaacharyaa/wanderlust/pull/222) |
 | ![lucide-icons](https://readme-status-gamma.vercel.app/api/pin/?username=lucide-icons&repo=lucide&theme=react&show_owner=true)                              | [#1600: Added debounced in search](https://github.com/lucide-icons/lucide/pull/1600) <br> [#1656: Fix export IconNode type](https://github.com/lucide-icons/lucide/pull/1656) <br> [#1612: Fix website jumping issue](https://github.com/lucide-icons/lucide/pull/1612)                                                                                                                                         |
 | ![frontend-mini-challenges](https://readme-status-gamma.vercel.app/api/pin/?username=sadanandpai&repo=frontend-mini-challenges&theme=react&show_owner=true) | [#72: Add new frontend challenge color-generator](https://github.com/sadanandpai/frontend-mini-challenges/pull/72)                                                                                                                                                                                                                                                                                              |
+-->
