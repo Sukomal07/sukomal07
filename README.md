@@ -15,16 +15,17 @@
 
 > Here's what I excel at and am familiar with:
 
-- `Programming:` JavaScript, React.js, Next.js, TypeScript, Rust, Go, HTML, Test-Driven Development (TDD)
+- `Programming:` JavaScript, React.js, Next.js, TypeScript, Rust, Go
 - `Styling:` CSS, Bootstrap, TailwindCSS, MUI, Shandcn/ui
-- `State Management:` FormData, Context API, Redux Toolkit, React Query, Recoil
+- `State Management:` FormData, Context API, Redux Toolkit, Recoil
 - `Routing:` React Router
 - `Testing:` Jest, React Testing Library, Mocha
-- `Server:` Node.js, Express.js, Express Middlewares
-- `Authentication:` JWT, Passkeys, Auth As a Service (Firebase, Trusthauthx)
+- `Server:` Node.js, Express.js
+- `Authentication:` JWT, Passkeys, Next auth
 - `API:` REST, GraphQL
 - `Database:` MongoDB, PostgreSQL, Cloud Firestore
-- `Deployment:` Netlify, Render, Vercel
+- `Deployment:` Netlify, Render, Vercel, AWS
+- `AI:` Vapi , OpenAi
 
 ## 🤝 Connect with me:
 
