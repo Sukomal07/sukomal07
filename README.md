@@ -1,21 +1,23 @@
 ![Sukomal Dutta](https://github.com/user-attachments/assets/f8307151-6fa3-4575-b9eb-b55a91b8f745)
 
 <h1 align="center">
-    <strong> Hi 👋, I'm Sukomal Dutta </strong> 
+    <strong> Hey there! 👋, I'm Sukomal Dutta </strong> 
 </h1>
 
 ## 🧑‍💻 About Me:
+- I'm a web and app developer who loves building cool, user-friendly digital experiences. Whether it's crafting sleek websites or powerful mobile apps, I enjoy turning ideas into reality with clean, efficient code.
 
-- A passionate full-stack developer skilled in creating dynamic, high-performance web applications. With expertise in JavaScript 🌐, and TypeScript 📜, I specialize in building responsive user interfaces using React.js ⚛️ and Next.js ⏭️.
-- Leveraging modern cloud technologies like Docker 🐳, I ensure seamless integration and deployment across various platforms. My design toolkit includes Material-UI 🎨, shadcn 🎨, Tailwind CSS 💨, and Bootstrap 📚, allowing me to craft visually stunning and user-friendly experiences.
-- On the backend, I manage robust databases with MongoDB 🍃, Firebase 🔥, Appwrite ✉️, PostgreSQL 🐘, and MySQL 🐬. My proficiency in Git 🧑‍💻 ensures efficient version control and collaboration, while my experience with GCP ☁️, Amazon AWS 🌩️, and Cloudflare Workers 🌐 enables scalable and reliable cloud deployments.
-- Driven by a commitment to continuous learning 📚 and community involvement 🌍, I thrive on solving complex problems and delivering innovative solutions.
+💻 Tech I Love: JavaScript, React, Node.js, Next, Firebase, and more!
+🚀 What I Do: Web & mobile development and occasionally breaking things to learn faster.
+🎯 Currently Exploring: AI integrations & next-gen web technologies.
+
+Always up for interesting projects & collaborations—let’s connect! 😃
 
 ## Skills
 
 > Here's what I excel at and am familiar with:
 
-- `Programming:` JavaScript, React.js, Next.js, TypeScript, Rust, Go
+- `Programming:` JavaScript, React.js, Next.js, React Native, TypeScript, Rust, Go
 - `Styling:` CSS, Bootstrap, TailwindCSS, MUI, Shandcn/ui
 - `State Management:` FormData, Context API, Redux Toolkit, Recoil
 - `Routing:` React Router
