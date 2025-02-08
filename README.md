@@ -6,10 +6,9 @@
 
 ## 🧑‍💻 About Me:
 - I'm a web and app developer who loves building cool, user-friendly digital experiences. Whether it's crafting sleek websites or powerful mobile apps, I enjoy turning ideas into reality with clean, efficient code.
-
-💻 Tech I Love: JavaScript, React, Node.js, Next, Firebase, and more!
-🚀 What I Do: Web & mobile development and occasionally breaking things to learn faster.
-🎯 Currently Exploring: AI integrations & next-gen web technologies.
+- 💻 Tech I Love: JavaScript, React, Node.js, Next, Firebase, and more!
+- 🚀 What I Do: Web & mobile development and occasionally breaking things to learn faster.
+- 🎯 Currently Exploring: AI integrations & next-gen web technologies.
 
 Always up for interesting projects & collaborations—let’s connect! 😃
 
