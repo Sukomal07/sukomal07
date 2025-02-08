@@ -39,7 +39,7 @@ Always up for interesting projects & collaborations—let’s connect! 😃
 
 ## 🛠️ Languages and Tools :
 
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,rust,go,react,next,nodejs,mongodb,postgres,tailwind,mui,firebase,aws,docker,postman,prisma,cloudflare,linux" alt="Languages and Tools">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,rust,go,react,next,nodejs,mongodb,postgres,tailwind,mui,firebase,aws,docker,postman,prisma,cloudflare,linux,android,ios" alt="Languages and Tools">
 
 <!--
 ## 🌈 Interesting Contributions
