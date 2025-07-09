@@ -5,10 +5,7 @@
 </h1>
 
 ## 🧑‍💻 About Me:
-- I'm a web and app developer who loves building cool, user-friendly digital experiences. Whether it's crafting sleek websites or powerful mobile apps, I enjoy turning ideas into reality with clean, efficient code.
-- 💻 Tech I Love: JavaScript, React, Node.js, Next, Firebase, and more!
-- 🚀 What I Do: Web & mobile development and occasionally breaking things to learn faster.
-- 🎯 Currently Exploring: AI integrations & next-gen web technologies.
+-I’m Sukomal, a passionate Web & Mobile App Developer with 2+ years of experience in building scalable, user-friendly digital solutions. Currently working as a freelancer, I help businesses and startups bring their ideas to life with clean, efficient, and modern tech stacks.
 
 Always up for interesting projects & collaborations—let’s connect! 😃
 
