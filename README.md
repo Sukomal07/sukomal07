@@ -5,7 +5,7 @@
 </h1>
 
 ## 🧑‍💻 About Me:
--I’m Sukomal, a passionate Web & Mobile App Developer with 2+ years of experience in building scalable, user-friendly digital solutions. Currently working as a freelancer, I help businesses and startups bring their ideas to life with clean, efficient, and modern tech stacks.
+- I’m Sukomal, a passionate Web & Mobile App Developer with 2+ years of experience in building scalable, user-friendly digital solutions. Currently working as a freelancer, I help businesses and startups bring their ideas to life with clean, efficient, and modern tech stacks.
 
 Always up for interesting projects & collaborations—let’s connect! 😃
 
